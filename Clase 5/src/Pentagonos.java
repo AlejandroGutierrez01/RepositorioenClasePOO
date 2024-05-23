@@ -1,4 +1,3 @@
-//ME CAES MAL
 public class Pentagonos extends FigurasGeometricas {
     double tamanioLados;
     double apotema;
@@ -17,4 +16,5 @@ public class Pentagonos extends FigurasGeometricas {
     public double calcularPerimetro(){
         return tamanioLados * 5;
     }
+    //Cambio numero 4
 }
