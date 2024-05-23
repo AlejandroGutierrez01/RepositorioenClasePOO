@@ -16,4 +16,5 @@ public class Pentagonos extends FigurasGeometricas {
     public double calcularPerimetro(){
         return tamanioLados * 5;
     }
+    //Cambio numero 4
 }
